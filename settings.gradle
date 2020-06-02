@@ -1,6 +1,6 @@
 pluginManagement {
 	repositories {
-		gradlePluginPortal()
+		gradlePluginPortal444()
 		maven {
 			url 'https://artifactory.apps.bancolombia.com/maven-bancolombia/'
 		}
